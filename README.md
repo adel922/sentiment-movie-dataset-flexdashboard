@@ -1,1 +1,1 @@
-# sentiment-movie-dataset---flexdashboard
+# sentiment movie dataset-flexdashboard
